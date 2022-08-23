@@ -1,3 +1,5 @@
+import math
+
 #Arvot
 luoti = (13.3)
 naula = (32 * luoti)
@@ -10,7 +12,7 @@ arvo3luo = float(input('Anna luodit: '))
 grammayht = luoti * arvo3luo + naula * arvo2nau + leiviskä * arvo1lei
 #kilot = gramma / 1000
 
-kg = grammayht // 1000
+kg = math.floor(grammayht // 1000)
 grammayht2 = grammayht % 1000
 
 #Laskutoimitus
