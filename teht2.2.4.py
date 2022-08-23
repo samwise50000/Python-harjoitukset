@@ -12,3 +12,4 @@ print(summa)
 print(tulo)
 print(keskiarvo)
 
+
