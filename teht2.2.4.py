@@ -13,3 +13,4 @@ print(f"Tulo on: {tulo}")
 print(f"Keskiarvo on: {keskiarvo}")
 
 
+
