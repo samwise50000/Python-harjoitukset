@@ -8,8 +8,8 @@ tulo = luku_1 * luku_2 * luku_3
 keskiarvo = summa / 3
 
 #Tulostus
-print(summa)
-print(tulo)
-print(keskiarvo)
+print(f"Summa on: {summa}")
+print(f"Tulo on: {tulo}")
+print(f"Keskiarvo on: {keskiarvo}")
 
 
