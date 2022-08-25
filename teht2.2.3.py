@@ -7,7 +7,6 @@ piiri = (kanta * 2) + (korkeus * 2)
 ala = kanta * korkeus
 
 #Tulostukset
-print(f"piiri = {piiri}")
-print(f"ala = {ala}")
-
+print(f"Suorakulmion piiri on = {piiri:.2f}")
+print(f"Suorakulmion ala on = {ala:.2f}")
 
