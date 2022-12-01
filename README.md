@@ -1,2 +1,1 @@
-# Python-harjoitukset
-# Ensimmäiset Python-harjoitukset.
+# Ensimmäiset Python koodi- kieli harjoitukseni.
